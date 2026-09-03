@@ -21,3 +21,7 @@ prompt = input("you: ")
 response = model.invoke(prompt)
 print("bot:", response)
 
+
+
+
+
